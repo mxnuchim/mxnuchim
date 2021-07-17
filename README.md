@@ -7,5 +7,8 @@ Here are some ideas to get you started:
 - 👯 I just concluded Google's data analytics professional certificate and I'm using the knowledge I gained to challenge myself with projects and learn
 - I'm excited to share my Data journey with you along the way and would love for you to watch my progress. It'll be anything but boring so feel free to hop on lol
 - 😄 Pronouns: He/Him
+- ## Contact
+
+Your Name - [@manuchim_ix](https://twitter.com/twitter_handle) - email
 - ⚡ Fun fact: I may not look it, but I'm actually a number nerd lol. I love turning rows and columns of numbers into exciting stories, the more eciting, the better
 -->
