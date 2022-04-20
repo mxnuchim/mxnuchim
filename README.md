@@ -20,7 +20,7 @@
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 
-| <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxnuchim&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> |
+ | <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Top repositories
