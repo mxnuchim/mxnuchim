@@ -2,7 +2,7 @@
 ## Hey, I'm Manuchim👋
 *Getting to know me*
 
-###I'm a FullStack Blockchain and Web3 dev based in Lagos, Nigeria.
+### I'm a FullStack Blockchain and Web3 dev currently based in Lagos, Nigeria.
 > I recently concluded the State University of New York's blockchain specialization and I'm constantly building on what I've learned. That basically makes this a journal lol
 ---
 > I consider myself a doer. I love turning ideas and concepts into reality that we can interact with , the more exciting, the better. 
