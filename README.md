@@ -19,13 +19,11 @@
 :video_game: I'm an avid gamer</br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
-
- | <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=crud-list&theme=github_dark)](https://github.com/kevinfengcs88/crud-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=project-wave-web3.0&theme=github_dark)](https://github.com/mxnuchim/project-wave-web3.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=cryptocoven-nft-api&theme=github_dark)](https://github.com/mxnuchim/cryptocoven-nft-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kevinfeng.ga&theme=github_dark)](https://github.com/kevinfengcs88/kevinfeng.ga)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=portfolio-template&theme=github_dark)](https://github.com/kevinfengcs88/portfolio-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=python-projects&theme=github_dark)](https://github.com/kevinfengcs88/python-projects)
