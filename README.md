@@ -13,7 +13,7 @@
 
 [![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
 
-:education: I recently concluded the State University of New York's blockchain specialization and I'm constantly building on what I've learned</br>
+:school: I recently concluded the State University of New York's blockchain specialization course</br>
 :fountain_pen: I have a passion for creative writing and learning new things</br>
 :computer: I love making computers do things</br>
 :video_game: I'm an avid gamer</br>
