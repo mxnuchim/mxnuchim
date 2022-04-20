@@ -2,7 +2,7 @@
 ## Hey, I'm Manuchim👋
 *Getting to know me*
 
-[![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
+[![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
 
 ### I'm a FullStack Blockchain and Web3 dev currently based in Lagos, Nigeria.
 > I recently concluded the State University of New York's blockchain specialization and I'm constantly building on what I've learned. That basically makes this a journal lol
