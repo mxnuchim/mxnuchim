@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
 
-[![Website](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://twitter.com/manuchim_ix)
+[![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/manuchim_ix)
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
