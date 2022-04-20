@@ -13,7 +13,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=37&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;Open-source+developer+advocate;I'm+currently+based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;Open-source+developer+advocate;I'm+currently+based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
 
 
