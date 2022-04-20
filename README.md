@@ -15,10 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;Open-source+developer+advocate;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
-
-
-
-[![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
 :fountain_pen: I have a passion for creative writing and learning new things</br>
@@ -59,6 +56,5 @@
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
 
