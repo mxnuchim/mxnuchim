@@ -44,7 +44,7 @@
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;
-  <img width=50px src="<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
+  <img width=50px src="<img width=50px src=" <img width=50px src="<img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
   <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
