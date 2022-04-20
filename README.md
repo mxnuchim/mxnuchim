@@ -2,6 +2,10 @@
 ## Hey, I'm Manuchim👋
 *Getting to know me*
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+
 [![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
 
 ### I'm a FullStack Blockchain and Web3 dev currently based in Lagos, Nigeria.
