@@ -57,6 +57,6 @@
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
 
