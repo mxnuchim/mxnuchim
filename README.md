@@ -29,7 +29,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=discord-clone-blockchain&theme=github_dark)](https://github.com/mxnuchim/discord-clone-blockchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=twitter-blockchain-clone&theme=github_dark)](https://github.com/mxnuchim/twitter-blockchain-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=twitter-blockchain-clone&theme=github_dark)](https://github.com/mxnuchim/twitter-blockchain-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=robinhood-blockchain-clone&theme=github_dark)](https://github.com/mxnuchim/robinhood-blockchain-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=uber-clone-blockchain&theme=github_dark)](https://github.com/mxnuchim/robinhood-clone-blockchain)
 
 
 ## Languages and Tools:
