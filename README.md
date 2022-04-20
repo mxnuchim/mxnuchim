@@ -26,10 +26,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=cryptocoven-nft-api&theme=github_dark)](https://github.com/mxnuchim/cryptocoven-nft-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=crypto-beetles-nft-collection&theme=github_dark)](https://github.com/mxnuchim/crypto-beetles-nft-collection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=30-days-of-solidity&theme=github_dark)](https://github.com/mxnuchim/30-days-of-solidity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim88&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=osrs-projects&theme=github_dark)](https://github.com/kevinfengcs88/osrs-projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=piercetheheavens.ga&theme=github_dark)](https://github.com/kevinfengcs88/piercetheheavens.ga)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=morse-learner&theme=github_dark)](https://github.com/kevinfengcs88/morse-learner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=discord-clone-blockchain&theme=github_dark)](https://github.com/mxnuchim/discord-clone-blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=twitter-clone-blockchain&theme=github_dark)](https://github.com/mxnuchim/robinhood-clone-blockchain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=twitter-clone-blockchain&theme=github_dark)](https://github.com/mxnuchim/twitter-clone-blockchain)
 
 
 ## Languages and Tools:
