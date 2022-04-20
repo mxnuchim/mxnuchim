@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Manuchim
 
-[![Website](https://img.shields.io/badge/github.com/mxnuchim-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
+[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
