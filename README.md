@@ -32,7 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=30-days-of-solidity&theme=github_dark)](https://github.com/mxnuchim/30-days-of-solidity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim)](https://github.com/mxnuchim/github-readme-stats)
 
 ## Languages and Tools:
 <div>
