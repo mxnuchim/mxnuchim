@@ -8,10 +8,16 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manuchim-oliver-754802195)](https://www.linkedin.com/in/manuchim-oliver-754802195)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=white&size=40&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+&+Web3+Dev!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=white&size=40&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!)](https://git.io/typing-svg)
 
 
 [![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
+
+:education: I recently concluded the State University of New York's blockchain specialization and I'm constantly building on what I've learned</br>
+:fountain_pen: I have a passion for creative writing and learning new things</br>
+:computer: I love making computers do things</br>
+:video_game: I'm an avid gamer</br>
+:mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 ### I'm a FullStack Blockchain and Web3 dev currently based in Lagos, Nigeria.
 > I recently concluded the State University of New York's blockchain specialization and I'm constantly building on what I've learned. That basically makes this a journal lol
