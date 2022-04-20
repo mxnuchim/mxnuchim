@@ -5,7 +5,7 @@
 
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/manuchim_ix)
 
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=white&size=40&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!)](https://git.io/typing-svg)
