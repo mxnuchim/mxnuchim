@@ -14,6 +14,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=white&size=40&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;I'm+currently+based+in+Lagos,+Nigeria;I'm+open+to+remote+roles+and+contracts)](https://git.io/typing-svg)
 
 
+
+
 [![Manuchim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&show_icons=true&theme=radical&hide=contribs,issues,prs,issues?count_private=true)](https://github.com/mxnuchim/github-readme-stats)
 
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
