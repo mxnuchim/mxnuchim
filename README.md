@@ -46,7 +46,7 @@
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">&nbsp;
-  <img width=50px src="https://https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
+  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
