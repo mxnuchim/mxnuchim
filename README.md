@@ -10,9 +10,10 @@
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manuchim-oliver-754802195)](https://www.linkedin.com/in/manuchim-oliver-754802195)
+
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=40&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;Open-source+developer+advocate;I'm+currently+based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=white&size=35&width=800&duration=6969&lines=I'm+a+FullStack+Blockchain+Dev!;Open-source+developer+advocate;I'm+currently+based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
 
 
