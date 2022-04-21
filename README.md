@@ -49,8 +49,6 @@
   <img width=50px src="https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png">&nbsp;
   <img width=50px src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t">&nbsp;
   <img width=50px src="https://miro.medium.com/max/900/0*-09GP36Rj2n8rXNz.png">&nbsp;
-  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
 
 </br>
