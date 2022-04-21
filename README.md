@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Manuchim
@@ -47,6 +47,7 @@
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">&nbsp;
   <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
   <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">&nbsp;
+  <img width=50px height=50px src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
 </div>
