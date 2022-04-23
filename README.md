@@ -18,7 +18,7 @@
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
 :fountain_pen: I have a passion for creative writing and learning new things</br>
 :computer: I consider myself a doer. I love turning ideas and concepts into reality that we can interact with.</br>
-:video_game: I'm an avid gamer</br>
+:video_game: I'm an avid gamer too</br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
