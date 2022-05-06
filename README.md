@@ -24,7 +24,8 @@
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=terrachain-landing-page.0&theme=github_dark)](https://github.com/mxnuchim/terrachain-landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=terrachain-landing-page&theme=github_dark)](https://github.com/mxnuchim/terrachain-landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=portfolio-v2&theme=github_dark)](https://github.com/mxnuchim/portfolio-v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=noraway&theme=github_dark)](https://github.com/mxnuchim/noraway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=project-wave-web3.0&theme=github_dark)](https://github.com/mxnuchim/project-wave-web3.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=cryptocoven-nft-api&theme=github_dark)](https://github.com/mxnuchim/cryptocoven-nft-api)
