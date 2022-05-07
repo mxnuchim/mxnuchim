@@ -7,8 +7,6 @@
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/manuchim_ix)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
-
-[![Linkedin Badge](https://img.shields.io/badge/-manuchimsooliver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuchimsooliver/)](https://www.linkedin.com/in/manuchimsooliver/)
 [![Instagram Badge](https://img.shields.io/badge/-mxnuchim.ix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/manuchim.ix/)](https://instagram.com/mxnuchim.ix)
 [![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:kanna6501@gmail.com)
 
