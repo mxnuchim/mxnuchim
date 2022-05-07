@@ -7,7 +7,10 @@
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/manuchim_ix)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manuchim-oliver-754802195)](https://www.linkedin.com/in/manuchim-oliver-754802195)
+
+[![Linkedin Badge](https://img.shields.io/badge/-manuchimsooliver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuchimsooliver/)](https://www.linkedin.com/in/manuchimsooliver/)
+[![Instagram Badge](https://img.shields.io/badge/-mxnuchim.ix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/manuchim.ix/)](https://instagram.com/mxnuchim.ix)
+[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:kanna6501@gmail.com)
 
 <br />
 
@@ -63,9 +66,6 @@
 
 I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-manuchimsooliver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuchimsooliver/)](https://www.linkedin.com/in/manuchimsooliver/)
-[![Instagram Badge](https://img.shields.io/badge/-mxnuchim.ix-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/manuchim.ix/)](https://instagram.com/mxnuchim.ix)
-[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:kanna6501@gmail.com)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
