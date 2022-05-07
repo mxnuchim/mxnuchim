@@ -87,7 +87,7 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mxnuchim.mxnuchim)
