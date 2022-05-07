@@ -36,35 +36,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
 
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">&nbsp;
-  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
-  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">&nbsp;
-  <img width=50px src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">&nbsp;
-  <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">&nbsp;
-  <img width=50px src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">&nbsp;
-  <img width=50px src="https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png">&nbsp;
-  <img width=50px src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/knid3ofzvtnf9f6ifg7t">&nbsp;
-  <img width=50px src="https://miro.medium.com/max/900/0*-09GP36Rj2n8rXNz.png">&nbsp;
-</div>
-
-</br>
-
-
-
-
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -86,6 +57,16 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
+
+I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuchimsooliver/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/manuchim.ix/)](https://instagram.com/kanna6501)
+[![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:kanna6501@gmail.com)
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&hide=TeX&layout=compact)
