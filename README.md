@@ -57,43 +57,46 @@
 
 
 
+I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
+## ⚡ Technologies
 
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-<p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
-</p>
-
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" 
-
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
