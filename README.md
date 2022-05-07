@@ -63,7 +63,4 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&hide=TeX&layout=compact)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mxnuchim.mxnuchim)
