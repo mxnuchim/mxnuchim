@@ -15,6 +15,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxnuchim)](https://github.com/mxnuchim/github-readme-stats)
+
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
 :fountain_pen: I have a passion for creative writing and learning new things</br>
 :computer: I consider myself a doer. I love turning ideas and concepts into reality that we can interact with.</br>
