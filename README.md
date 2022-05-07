@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mxnuchim)](https://github.com/mxnuchim/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
 :fountain_pen: I have a passion for creative writing and learning new things</br>
@@ -64,8 +64,6 @@
 
 
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mxnuchim.mxnuchim)
