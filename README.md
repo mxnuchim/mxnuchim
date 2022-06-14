@@ -18,9 +18,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
 :school: I recently concluded the State University of New York's blockchain specialization course</br>
-:fountain_pen: I’m currently into block chain, with the use of Meta mask, Web3, and solidity </br>
+:fountain_pen: I’m a blockchain developer highly skilled at creating fullstack, decentralized solutions across various blockchains </br>
 :computer: I consider myself a doer. I love turning ideas and concepts into reality that we can interact with.</br>
-:video_game: I’m looking to collaborate on any project using NodeJS, Typescript, React, and block chain </br>
+:video_game: I'm also a writer. And I write about all things web3 development. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">here</a> </br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
