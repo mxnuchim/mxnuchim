@@ -17,8 +17,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
-:school: I recently concluded the State University of New York's blockchain specialization course</br>
-:fountain_pen: I’m a blockchain developer highly skilled at creating fullstack, decentralized solutions across various blockchains </br>
+:school: I was recently granted a full scholarship to study Front End development at Future Academy Africa</br>
+:fountain_pen: Asides that, I'm a full stack web and blockchain developer highly skilled at creating fullstack, decentralized solutions across various blockchains </br>
 :computer: I consider myself a doer. I love turning ideas and concepts into reality that we can interact with.</br>
 :video_game: I'm also a writer. And I write about all things web3 development. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
