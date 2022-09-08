@@ -9,6 +9,12 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:manuchimoliver779@gmail.com)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshdamian&label=Profile%20views&color=0e75b6&style=flat" alt="joshdamian" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshdamian" alt="joshdamian" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/devjosh__" target="blank"><img src="https://img.shields.io/twitter/follow/devjosh__?logo=twitter&style=for-the-badge" alt="devjosh__" /></a> </p>
+
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Engineer!;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
