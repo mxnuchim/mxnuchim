@@ -4,16 +4,16 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Manuchim
 
-[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fgithub.com/mxnuchim)](https://github.com/mxnuchim/)
+[![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://manuchimoliver.vercel.app/)
 [![Medium](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=medium&logoColor=white&link=https://twitter.com/manuchim_ix)](https://twitter.com/manuchim_ix)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:manuchimoliver779@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshdamian&label=Profile%20views&color=0e75b6&style=flat" alt="joshdamian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnuchim&label=Profile%20views&color=0e75b6&style=flat" alt="mxnuchim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshdamian" alt="joshdamian" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxnuchim" alt="mxnuchim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devjosh__" target="blank"><img src="https://img.shields.io/twitter/follow/devjosh__?logo=twitter&style=for-the-badge" alt="devjosh__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/manuchim_ix" target="blank"><img src="https://img.shields.io/twitter/follow/manuchim_ix?logo=twitter&style=for-the-badge" alt="manuchim_ix" /></a> </p>
 
 <br />
 
