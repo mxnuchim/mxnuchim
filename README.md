@@ -9,12 +9,6 @@
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manuchimoliver779)](https://medium.com/@manuchimoliver779)
 [![Gmail Badge](https://img.shields.io/badge/-manuchimoliver779@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manuchimoliver779@gmail.com)](mailto:manuchimoliver779@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxnuchim&label=Profile%20views&color=0e75b6&style=flat" alt="mxnuchim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxnuchim" alt="mxnuchim" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/manuchim_ix" target="blank"><img src="https://img.shields.io/twitter/follow/manuchim_ix?logo=twitter&style=for-the-badge" alt="manuchim_ix" /></a> </p>
-
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Engineer!;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
@@ -25,7 +19,7 @@
 
 :school: I was recently granted a full scholarship to study Front End development at Future Academy Africa</br>
 :fountain_pen: Asides that, I'm a full stack web and blockchain developer highly skilled at creating fullstack, decentralized solutions across various blockchains </br>
-:computer: I consider myself a doer. I love turning ideas and concepts into reality that we can interact with.</br>
+:computer: I consider myself a doer. You can peep my projects at <a href="(https://manuchimoliver.vercel.app)">https://manuchimoliver.vercel.app</a> </br>
 :video_game: I'm also a writer. And I write about all things web3 development. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
