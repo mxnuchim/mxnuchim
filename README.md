@@ -17,9 +17,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
-:school: I was recently granted a full scholarship to study Front End development at Future Academy Africa</br>
-:fountain_pen: Asides that, I'm a full stack web and blockchain developer highly skilled at creating fullstack, decentralized solutions across various blockchains </br>
-:computer: I consider myself a doer. You can peep my projects at <a href="(https://manuchimoliver.vercel.app)">https://manuchimoliver.vercel.app</a> </br>
+:school: For starters, I'm a civil engineer turned software dev and I solve problemd using code</br>
+:fountain_pen: Asides that, I'm a full stack web and mobile developer highly skilled at creating scalable solutions across various platforms using a host of bleeding edge technologies </br>
+:computer: I consider myself a doer really. I like to build for the fun of it (and so I can learn new stuff too). You can peep my projects at <a href="(https://manuchimoliver.vercel.app)">https://manuchimoliver.vercel.app</a> </br>
 :video_game: I'm also a writer. And I write about all things web3 development. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
