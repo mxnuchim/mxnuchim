@@ -17,7 +17,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
-:school: For starters, I'm a civil engineer turned software dev and I solve problems using code</br>
+:school: For starters, I'm a civil engineer turned software dev and I enjoy solving problems using code</br>
 :fountain_pen: I build scalable solutions across various platforms using a host of bleeding edge technologies and my strengths are full stack web and mobile development</br>
 :computer: I'm currently learning IOS development with Swift. And I'm doing this by building real world projects that I believe can solve problems for people. I like to build for the fun of it (and so I can learn new stuff too). You can peep my projects at <a href="(https://manuchimoliver.vercel.app)">https://manuchimoliver.vercel.app</a> </br>
 :video_game: I'm also an avid gamer, a traveller and funny enough, a writer. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
