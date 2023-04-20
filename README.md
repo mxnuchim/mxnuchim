@@ -17,9 +17,9 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
-:school: For starters, I'm a civil engineer turned software dev and I enjoy solving problems using code</br>
-:fountain_pen: I build scalable solutions across various platforms using a host of cutting edge technologies and my strengths are full stack web and mobile development as well as DevOps engineering tools and technology</br>
-:video_game: I'm also an avid gamer, a traveller and funny enough, a writer. Check out my medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
+:computer: For starters, I'm a Full stack developer and battle tested DevOps Engineer who enjoys solving problems using code</br>
+:fountain_pen: I build, deploy, and monitor scalable solutions across various platforms using a host of cutting edge technologies and my strengths are full stack web and mobile development as well as DevOps engineering tools and technology</br>
+:video_game: In my free time, I'm also an avid gamer, a learner, and a writer. Wanna see some of my articles? Check them out on medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
