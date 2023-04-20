@@ -11,7 +11,7 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
