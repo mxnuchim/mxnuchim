@@ -28,7 +28,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=TwitterX-Clone-Next.js&theme=github_dark)](https://github.com/mxnuchim/TwitterX-Clone-Next.js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=React-ThreeJS-ChatGPT-app&theme=github_dark)](https://github.com/mxnuchim/React-ThreeJS-ChatGPT-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=Blog-REST-API-NestJS-Prisma&theme=github_dark)](https://github.com/mxnuchim/Blog-REST-API-NestJS-Prisma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=Express-User-REST-API&theme=github_dark)](https://github.com/mxnuchim/Express-User-REST-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=SwiftUI-Social-Media-App&theme=github_dark)](https://github.com/mxnuchim/SwiftUI-Social-Media-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=RoboPunksNFT-minting-website&theme=github_dark)](https://github.com/mxnuchim/RoboPunksNFT-minting-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=project-wave-web3.0&theme=github_dark)](https://github.com/mxnuchim/project-wave-web3.0)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=cryptocoven-nft-api&theme=github_dark)](https://github.com/mxnuchim/cryptocoven-nft-api)
