@@ -17,13 +17,22 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
 
-:computer: For starters, I'm a Full stack developer and battle tested DevOps Engineer who enjoys solving problems using code</br>
-:fountain_pen: I build, deploy, and monitor scalable solutions across various platforms using a host of cutting edge technologies and my strengths are full stack web and mobile development as well as DevOps engineering tools and technology</br>
-:video_game: In my free time, I'm also an avid gamer, a learner, and a writer. Wanna see some of my articles? Check them out on medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
-🚀 **Current Focus**
-- Go & Java backend engineering
+---
+
+## 🚀 Current Focus
+- :computer: Go & Java backend engineering
 - Distributed systems & platform engineering
 - Cloud infrastructure, CI/CD, and observability
+
+---
+
+## 👨🏽‍💻 About Me
+- Full-Stack Engineer and battle-tested DevOps Engineer  
+- I design, build, deploy, and monitor scalable web & mobile systems  
+- Strong focus on backend reliability, infrastructure, and developer experience  
+- Lifelong learner, gamer, and technical writer on [Medium](https://medium.com/@manuchimoliver779)
+
+---
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
@@ -39,32 +48,38 @@
 
 ## ⚡ Technologies
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### Backend & Systems
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
+### Frontend (Web and Mobile)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Platform & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-0A66C2?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql)
+
+# Tooling & Others
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mxnuchim.mxnuchim)
