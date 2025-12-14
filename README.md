@@ -20,25 +20,24 @@
 :computer: For starters, I'm a Full stack developer and battle tested DevOps Engineer who enjoys solving problems using code</br>
 :fountain_pen: I build, deploy, and monitor scalable solutions across various platforms using a host of cutting edge technologies and my strengths are full stack web and mobile development as well as DevOps engineering tools and technology</br>
 :video_game: In my free time, I'm also an avid gamer, a learner, and a writer. Wanna see some of my articles? Check them out on medium at: <a href="(https://medium.com/@manuchimoliver779)">https://medium.com/@manuchimoliver779</a> </br>
+🚀 **Current Focus**
+- Go & Java backend engineering
+- Distributed systems & platform engineering
+- Cloud infrastructure, CI/CD, and observability
 :mailbox: How to reach me: <a href="manuchimoliver779@gmail.com">manuchimoliver779@gmail.com</a>
 
 <a href="https://github.com/mxnuchim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnuchim&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
 ## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=TwitterX-Clone-Next.js&theme=github_dark)](https://github.com/mxnuchim/TwitterX-Clone-Next.js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=React-ThreeJS-ChatGPT-app&theme=github_dark)](https://github.com/mxnuchim/React-ThreeJS-ChatGPT-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=Blog-REST-API-NestJS-Prisma&theme=github_dark)](https://github.com/mxnuchim/Blog-REST-API-NestJS-Prisma)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=SwiftUI-Social-Media-App&theme=github_dark)](https://github.com/mxnuchim/SwiftUI-Social-Media-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=RoboPunksNFT-minting-website&theme=github_dark)](https://github.com/mxnuchim/RoboPunksNFT-minting-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=project-wave-web3.0&theme=github_dark)](https://github.com/mxnuchim/project-wave-web3.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=cryptocoven-nft-api&theme=github_dark)](https://github.com/mxnuchim/cryptocoven-nft-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=crypto-beetles-nft-collection&theme=github_dark)](https://github.com/mxnuchim/crypto-beetles-nft-collection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=30-days-of-solidity&theme=github_dark)](https://github.com/mxnuchim/30-days-of-solidity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=dwell-homes-real-estate-project&theme=github_dark)](https://github.com/mxnuchim/dwell-homes-real-estate-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=go-users-crud&theme=github_dark)](https://github.com/mxnuchim/go-users-crud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=tasks-api-spring&theme=github_dark)](https://github.com/mxnuchim/tasks-api-spring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=bookstore-server&theme=github_dark)](https://github.com/mxnuchim/bookstore-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=Coffee-Shop-App-React-Native&theme=github_dark)](https://github.com/mxnuchim/Coffee-Shop-App-React-Native)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=Financo&theme=github_dark)](https://github.com/mxnuchim/Financo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mxnuchim&repo=nexus-gaming-landing-page&theme=github_dark)](https://github.com/mxnuchim/nexus-gaming-landing-page)
 
 
 ## ⚡ Technologies
-
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
