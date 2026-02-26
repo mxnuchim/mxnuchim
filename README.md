@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Current Focus
-- :computer: Go & Java backend engineering
+- :computer: DevSecOps, MLOps, and IaC
 - Distributed systems & platform engineering
 - Cloud infrastructure, CI/CD, and observability
 
