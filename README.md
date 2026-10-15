@@ -17,8 +17,6 @@
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+a+FullStack+Developer!;DevOps+Engineer;Open-source+contributor;Based+in+Lagos,+Nigeria;)](https://git.io/typing-svg)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mxnuchim&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mxnuchim&count_private=true&show_icons=true&include_all_commits=true)
@@ -26,7 +24,7 @@
 ---
 
 ## 🚀 Current Focus
-- :computer: DevSecOps, MLOps, and IaC
+- :computer: AI engineering: agents, evals, and LLM infrastructure
 - Distributed systems & platform engineering
 - Cloud infrastructure, CI/CD, and observability
 
