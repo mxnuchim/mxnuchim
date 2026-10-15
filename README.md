@@ -4,10 +4,6 @@
   <img alt="mxnuchim's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
-</div>
-
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Manuchim
 
 [![Website](https://img.shields.io/badge/github-grey?style=for-the-badge&url=https%3A%2F%2Fmanuchimoliver.vercel.app)](https://manuchimoliver.vercel.app/)
